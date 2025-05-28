@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @arpitsharma-Aa
+/src/backend/database.py      @arpitsharma-Aa
+/src/backend/routers/auth.py  @arpitsharma-Aa
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @arpitsharma-Aa
